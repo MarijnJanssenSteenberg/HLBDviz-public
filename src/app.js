@@ -86,7 +86,7 @@ async function loadDefaultIfc(url) {
     await viewer.IFC.selector.pickIfcItemsByID(model.modelID, pickIfcItemByGUID(hashGUID), true, false);
   }  
 }
-loadDefaultIfc("http://127.0.0.1:5501/resources/IFC/MonumentOpDeDam_zonderBestrating.ifc");
+loadDefaultIfc("https://raw.githubusercontent.com/MarijnJanssenSteenberg/Heritage-LBDviz/main/resources/IFC/MonumentOpDeDam_zonderBestrating.ifc");
 
 const scene = viewer.context.getScene();
 
