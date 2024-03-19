@@ -18,10 +18,10 @@ import { fetchImages } from './fetchImages.js'
 import { queryComunicaElementName } from './comunicaElement.js'
 import { queryComunicaGlobalIdInterventions } from './comunicaGlobalIdInterventions.js'
 
-import { selectElements } from './selectElements.js' ;
+// import { selectElements } from './selectElements.js' ;
 import { selectElementsReplaced } from './selectElementsReplaced.js' ;
 import { selectElementsStatus } from './selectElementsStatus.js' ;
-import { selectElementsRepaired } from './selectElementsRepaired.js' ;
+// import { selectElementsRepaired } from './selectElementsRepaired.js' ;
 // import { selectElementsRepairedMeerw } from './selectElementsRepairedMeerw.js' ;
 
 const container = document.getElementById('viewer-container');
