@@ -16,7 +16,7 @@ import { queryComunicaGlobalIdPhotos } from './comunicaGlobalIdPhotos.js'
 import { queryComunicaGlobalIdLocation } from './comunicaGlobalIdLocation.js'
 import { fetchImages } from './fetchImages.js'
 import { queryComunicaElementName } from './comunicaElement.js'
-import { queryComunicaGlobalIdInterventions } from './comunicaGlobalIdInterventions.js'
+// import { queryComunicaGlobalIdInterventions } from './comunicaGlobalIdInterventions.js'
 
 // import { selectElements } from './selectElements.js' ;
 import { selectElementsReplaced } from './selectElementsReplaced.js' ;
